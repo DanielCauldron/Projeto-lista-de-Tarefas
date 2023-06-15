@@ -1,4 +1,4 @@
-# Projeto-lista-de-Tarefas ###EM ANDAMENTO
+# Projeto-lista-de-Tarefas (EM ANDAMENTO)
 ## Neste projeto de estudos, vou iniciar com o clássico dos clássicos - TODO (lista de tarefas). 
 O que o projeto vai abordar:
 * Estrutura de um projeto React.
